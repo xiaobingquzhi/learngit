@@ -15,4 +15,8 @@ Creating a new branch is quick and simple.
 =======
 >>>>>>> dev
 Save stash.
-Test origin dev branch.
+<<<<<<< HEAD
+Clone origin dev branch.
+=======
+Clone origin dev branch.
+>>>>>>> 582aa89a1592b9906a46c4151cf7d9fbdc496d0f
