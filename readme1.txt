@@ -15,3 +15,4 @@ Creating a new branch is quick and simple.
 =======
 >>>>>>> dev
 Save stash.
+Clone origin dev branch.
